@@ -1,4 +1,4 @@
-package richard;
+package leetcode;
 
 /**
  * Created by zihao on 2019/6/11.
