@@ -20,15 +20,12 @@ package leetcode;
 public class SingleNumber {
     public static void main(String[] args) {
         int[] e1 = {2, 2, 1};
-        int[] e2 = {4, 1, 2, 1, 2,9,9,156,156,4984654,4984654};
+        int[] e2 = {4, 1, 2, 1, 2};
 
-        long time0 = System.currentTimeMillis();
         int result1 = getMyResult(e1);
-        long time1 = System.currentTimeMillis();
         int result2 = getMyResult(e2);
-        long time2 = System.currentTimeMillis();
-        System.out.println("output1: " + result1 + ", spent time: " + (time1 - time0) + "ms");
-        System.out.println("output2: " + result2 + ", spent time: " + (time2 - time1) + "ms");
+        System.out.println("output1: " + result1);
+        System.out.println("output2: " + result2);
     }
 
     private static int getMyResult(int[] nums) {
