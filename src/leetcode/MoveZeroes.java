@@ -21,7 +21,7 @@ public class MoveZeroes {
         int[] input1 = {0, 1, 0, 3, 12};
         int[] input2 = {4, 2, 4, 0, 0, 3, 0, 5, 1, 0};
         //System.out.println("output1: " + Arrays.toString(getMyResult(input1)));
-        System.out.println("output2: " + Arrays.toString(getMyResult(input2)));
+        System.out.println("output2: " + Arrays.toString(getBetterResult(input2)));
     }
 
     /**
@@ -48,6 +48,21 @@ public class MoveZeroes {
                 nums[i] = nums[i + x];
                 nums[i + x] = 0;
             }
+        }
+        return nums;
+    }
+
+    private static int[] getBetterResult(int[] nums) {
+        int zeroCount = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                zeroCount++;
+            } else {
+                nums[i - zeroCount] = nums[i];
+            }
+        }
+        while (zeroCount-- != 0) {
+            nums[nums.length - zeroCount - 1] = 0;
         }
         return nums;
     }
