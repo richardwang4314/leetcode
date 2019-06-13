@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by zihao on 2019/6/11.
+ * Created by Richard on 2019/6/11.
  * <p>
  * 136. Single Number
  * Given a non-empty array of integers, every element appears twice except for one. Find that single one.

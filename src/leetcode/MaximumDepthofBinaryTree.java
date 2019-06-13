@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by zihao on 2019/6/10.
+ * Created by Richard on 2019/6/10.
  * <p>
  * 104. Maximum Depth of Binary Tree
  * Given a binary tree, find its maximum depth.

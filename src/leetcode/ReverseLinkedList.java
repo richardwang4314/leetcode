@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 
 /**
- * Created by zihao on 2019/6/12.
+ * Created by Richard on 2019/6/12.
  * <p>
  * 206. Reverse Linked List
  * Reverse a singly linked list.
