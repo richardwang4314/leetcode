@@ -8,3 +8,4 @@ No.|topic                       |difficulty|creat at|finish at
 412|Fizz Buzz                   |easy      |20190612|20190612
 206|Reverse Linked List         |easy      |20190612|
 283|Move Zeroes                 |easy      |20190613|20190613
+169|Majority Element            |easy      |20190613|20190614
