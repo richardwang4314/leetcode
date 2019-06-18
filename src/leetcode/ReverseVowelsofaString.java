@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Created by Richard on 2019/6/6.
  * <p>
- * 345. Reverse Vowels of a String
+ * 345. Reverse Vowels of a StringTest
  * Write a function that takes a string as input and reverse only the vowels of a string.
  * <p>
  * Example 1:

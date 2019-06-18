@@ -10,3 +10,4 @@ No. |topic                       |difficulty|creat at|finish at
 283 |Move Zeroes                 |easy      |20190613|20190613
 169 |Majority Element            |easy      |20190613|20190614
 13  |Roman to Integer            |easy      |20190614|20190614
+242 |Valid Anagram               |easy      |20190617|20190618
