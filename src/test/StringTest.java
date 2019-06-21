@@ -10,9 +10,17 @@ public class StringTest {
         System.out.println(t);
 
         String s1 = "039B795B01CB3F0B0001000000001468CD7F";
-        System.out.println(Long.parseLong(s1.substring(0,4),16));
-        System.out.println(Long.parseLong(s1.substring(4,8),16));
-        System.out.println(s1.substring(0,16));
-        System.out.println(s1.substring(16,32));
+
+        System.out.println(Long.parseLong("1231"));
+        System.out.println(Long.valueOf(s1));
+    }
+
+    private static boolean isLong(String s) {
+        try {
+            long long1 = Long.parseLong(s);
+        } catch (Exception e) {
+            return false;
+        }
+        return true;
     }
 }
