@@ -14,3 +14,4 @@ No. |topic                              |difficulty|creat at|finish at
 217 |Contains Duplicate                 |easy      |20190619|20190619
 122 |Best Time to Buy and Sell Stock II |easy      |20190621|20190621
 171 |Excel Sheet Column Number          |easy      |20190621|20190621
+387 |First Unique Character in a String |easy      |20190621|
