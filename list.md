@@ -14,4 +14,7 @@ No. |topic                              |difficulty|creat at|finish at|descripti
 217 |Contains Duplicate                 |easy      |20190619|20190619 |陣列是否有重複數字
 122 |Best Time to Buy and Sell Stock II |easy      |20190621|20190621 |低買高賣
 171 |Excel Sheet Column Number          |easy      |20190621|20190621 |excel欄位名稱轉成數字
-387 |First Unique Character in a String |easy      |20190621|         |找第一個不一樣的字
+387 |First Unique Character in a String |easy      |20190621|20190625 |找第一個不一樣的字
+268 |Missing Number                     |easy      |20190625|20190625 |找數列缺少的數字
+350 |Intersection of Two Arrays II      |easy      |20190626|         |找兩陣列重複的數字
+118 |Pascal's Triangle                  |easy      |20190627|20190628 |帕斯卡三角形
