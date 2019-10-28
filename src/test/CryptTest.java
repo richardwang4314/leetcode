@@ -3,9 +3,9 @@ package test;
 import java.util.Base64;
 
 /**
- * Created by zihao on 2019/6/17.
+ * Created on 2019/6/17.
  */
-public class Crypt {
+public class CryptTest {
     public static void main(String[] args) {
         String s="demoAgent:ba696b9f35b640b9a3ca3dd85d7978";
         String s64= Base64.getEncoder().encodeToString(s.getBytes());

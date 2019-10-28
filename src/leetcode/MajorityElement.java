@@ -3,7 +3,7 @@ package leetcode;
 import java.util.*;
 
 /**
- * Created by zihao on 2019/6/13.
+ * Created on 2019/6/13.
  * <p>
  * 169. Majority Element
  * Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.

@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Arrays;
 
 /**
- * Created by zihao on 2019/6/26.
+ * Created on 2019/6/26.
  * <p>
  * 350. Intersection of Two Arrays II
  * Given two arrays, write a function to compute their intersection.

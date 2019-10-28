@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by zihao on 2019/6/21.
+ * Created on 2019/6/21.
  * <p>
  * 171. Excel Sheet Column Number
  * Given a column title as appear in an Excel sheet, return its corresponding column number.

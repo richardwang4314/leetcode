@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Arrays;
 
 /**
- * Created by zihao on 2019/6/25.
+ * Created on 2019/6/25.
  * <p>
  * 268. Missing Number
  * Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.

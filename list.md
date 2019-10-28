@@ -18,3 +18,6 @@ No. |topic                              |difficulty|creat at|finish at|descripti
 268 |Missing Number                     |easy      |20190625|20190625 |找數列缺少的數字
 350 |Intersection of Two Arrays II      |easy      |20190626|         |找兩陣列重複的數字
 118 |Pascal's Triangle                  |easy      |20190627|20190628 |帕斯卡三角形
+202 |Happy Number                       |easy      |20190628|20190628 |數字平方和相加直到個位數
+70  |Climbing Stairs                    |easy      |20190708|         |爬樓梯一次1或2階
+

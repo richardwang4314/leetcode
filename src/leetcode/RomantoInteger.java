@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by zihao on 2019/6/14.
+ * Created on 2019/6/14.
  * <p>
  * 13. Roman to Integer
  * Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

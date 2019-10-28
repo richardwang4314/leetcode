@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * Created by zihao on 2019/6/21.
+ * Created on 2019/6/21.
  * <p>
  * 122. Best Time to Buy and Sell Stock II
  * Say you have an array for which the ith element is the price of a given stock on day i.

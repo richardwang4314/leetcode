@@ -3,7 +3,7 @@ package leetcode;
 import java.util.*;
 
 /**
- * Created by zihao on 2019/6/19.
+ * Created on 2019/6/19.
  * <p>
  * 217. Contains Duplicate
  * Given an array of integers, find if the array contains any duplicates.

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * Created by zihao on 2019/6/17.
+ * Created on 2019/6/17.
  * <p>
  * 242. Valid Anagram
  * Given two strings s and t , write a function to determine if t is an anagram of s.
