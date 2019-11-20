@@ -20,4 +20,5 @@ No. |topic                              |difficulty|creat at|finish at|descripti
 0118|Pascal's Triangle                  |easy      |20190627|20190628 |帕斯卡三角形
 0202|Happy Number                       |easy      |20190628|20190628 |數字平方和相加直到個位數
 0070|Climbing Stairs                    |easy      |20190708|         |爬樓梯一次1或2階
-
+0053|Maximum Subarray                   |easy      |20191118|         |最大子序列
+0001|Two Sum                            |easy      |20191118|20191119 |找出相加的兩數值位置

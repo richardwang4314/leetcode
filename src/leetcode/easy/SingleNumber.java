@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.easy;
 
 /**
  * Created by Richard on 2019/6/11.
