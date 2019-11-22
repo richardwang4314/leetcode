@@ -22,3 +22,5 @@ No. |topic                              |difficulty|creat at|finish at|descripti
 0070|Climbing Stairs                    |easy      |20190708|         |爬樓梯一次1或2階
 0053|Maximum Subarray                   |easy      |20191118|         |最大子序列
 0001|Two Sum                            |easy      |20191118|20191119 |找出相加的兩數值位置
+0026|Remove Duplicates from Sorted Array|easy      |20191119|20191119 |重組陣列
+0326|Power of Three                     |easy      |20191120|201911   |
