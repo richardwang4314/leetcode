@@ -15,7 +15,7 @@ public class DateTest {
 
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         df.setTimeZone(TimeZone.getTimeZone("GMT"));
-        System.out.println("中文字减字我在这边");
+        System.out.println("中文字");
 
         //減7天
         Calendar now = Calendar.getInstance();
@@ -27,7 +27,7 @@ public class DateTest {
 
         //時區調整
         df.setTimeZone(TimeZone.getTimeZone("GMT"));
-        Date date2=df.parse("2019-11-22 10:57:03");
+        Date date2 = df.parse("2019-11-22 10:57:03");
         System.out.println(date2);
     }
 }

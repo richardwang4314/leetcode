@@ -1,9 +1,14 @@
 package test;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 /**
- * Created by zihao on 2019/11/8.
+ * Created by Richard on 2019/11/8.
  */
 public class ListTest {
     public static void main(String[] args) {
@@ -16,13 +21,13 @@ public class ListTest {
         sets2.add("bb");
         sets2.add("cc");
 
-        List<String> list=new ArrayList<>();
+        List<String> list = new ArrayList<>();
         list.add("aa");
         list.add("bb");
 
-        Map<String,String> map=new HashMap<>();
-        map.put("aa","11");
-        map.put("dd","22");
+        Map<String, String> map = new HashMap<>();
+        map.put("aa", "11");
+        map.put("dd", "22");
 
         System.out.println("查看sets是否包含sets2: " + sets.containsAll(sets2));
         System.out.println("查看sets是否包含list: " + sets.containsAll(list));

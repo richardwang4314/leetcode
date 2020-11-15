@@ -1,9 +1,9 @@
-package test;
+package algorithm;
 
 import java.util.regex.Pattern;
 
 /**
- * Created by zihao on 2019/12/12.
+ * Created by Richard on 2019/12/12.
  * [演算法] Is Palindrome：判斷順寫逆寫是不是一樣
  */
 public class Palindrome {

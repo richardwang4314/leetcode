@@ -3,7 +3,7 @@ package leetcode.easy.No0026;
 import java.util.*;
 
 /**
- * Created by zihao on 2019/11/19.
+ * Created by Richard on 2019/11/19.
  */
 public class RemoveDuplicatesfromSortedArray {
     public static void main(String[] args) {

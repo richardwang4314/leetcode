@@ -1,7 +1,7 @@
 package leetcode.easy.No0053;
 
 /**
- * Created by zihao on 2019/11/18.
+ * Created by Richard on 2019/11/18.
  */
 public class MaximumSubarray {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package leetcode.easy.No0326;
 import java.util.Arrays;
 
 /**
- * Created by zihao on 2019/11/20.
+ * Created by Richard on 2019/11/20.
  */
 public class PowerOfThree {
     public static void main(String[] args) {
